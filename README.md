@@ -176,7 +176,7 @@ Create `ReadOnly-Cross-Account` role in each customer account:
     {
       "Effect": "Allow",
       "Principal": {
-        "AWS": "arn:aws:iam::325809079703:root"
+        "AWS": "arn:aws:iam:::root"
       },
       "Action": "sts:AssumeRole",
       "Condition": {
