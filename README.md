@@ -27,7 +27,7 @@ A comprehensive AWS monitoring solution for Managed Service Providers (MSPs) to 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    HUB ACCOUNT (325809079703)               │
+│                    HUB ACCOUNT ()               │
 │                                                             │
 │  ┌──────────────────────────────────────────────────────┐  │
 │  │  React Dashboard (Frontend)                          │  │
@@ -301,11 +301,7 @@ This project is licensed under the MIT License.
 - Amazon Bedrock Nova Pro for AI analysis
 - React and Material-UI communities
 
-## 📞 Support
 
-For issues and questions:
-- Create an issue in the GitHub repository
-- Contact: your-email@example.com
 
 ---
 
